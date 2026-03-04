@@ -1495,6 +1495,8 @@ allow
 forget
 fileDic
 loginCheck
+LoginCheck
+SendForgotPasswordCode
 mailAdresi
 KodUret
 SifreGuncelle
@@ -1512,3 +1514,13 @@ userType
 user_type
 yetki
 paylas
+GetKullaniciById
+version
+widget
+widgets
+siparisler
+siparis
+customer_order
+customer_orders
+recent_orders
+customer_stats
